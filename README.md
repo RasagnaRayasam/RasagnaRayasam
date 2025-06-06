@@ -19,7 +19,7 @@ I'm a final-year Electronics & Communication Engineering student passionate abou
 - 📄 [Education Certificate Validator] 
   Flask + OCR-based tool to detect tampering and academic gaps in student certificates.
 
-> I'm looking for roles or internships in **AI/ML**, **full-stack development**, or **product-focused tech** where I can grow fast and learn deeply.
+ I'm looking for roles or internships in **AI/ML**, **full-stack development**, or **product-focused tech** where I can grow fast and learn deeply.
 
 ---
 
