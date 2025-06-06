@@ -32,6 +32,6 @@ I'm a final-year Electronics & Communication Engineering student passionate abou
 
 ### 📫 Contact Me
 - **Email**: rasagna2154@gmail.com  
-- **LinkedIn**: [https://linkedin.com/in/www.linkedin.com/in/rasagna-rayasam-749b1925a](https://linkedin.com/in/www.linkedin.com/in/rasagna-rayasam-749b1925a)
+- **LinkedIn**: [https://linkedin.com/in/www.linkedin.com/in/rasagna-rayasam-749b1925a](www.linkedin.com/in/rasagna-rayasam-749b1925a)
 
 Thanks for visiting my GitHub profile! 🚀
