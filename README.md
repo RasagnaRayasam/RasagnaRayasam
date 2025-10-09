@@ -3,30 +3,29 @@
 I'm a final-year Electronics & Communication Engineering student passionate about **AI/ML**, **Python Web Development**, and solving real-world problems through technology.
 
 ### 🔧 Tech Stack:
-- **Languages**: Python, C, HTML, CSS, JavaScript
-- **Backend**: Flask, REST APIs, Authentication
-- **Machine Learning**: scikit-learn, pandas, NumPy, Random Forest
-- **Computer Vision**: OpenCV, Tesseract OCR
+- **Languages**: Java, Python, C, HTML, CSS, JavaScript,Streamlit
+- **Backend**: Flask, REST APIs, Authentication, Tesseract OCR
 - **Tools**: Git, GitHub, VS Code, Render
 - **Databases**: SQL
 - **CS Concepts**: DSA, DBMS, Operating Systems, SDLC, Agile, OOPS
 
 ### 🚀 Projects
 
-- 🖐️ [Sign Language Detection]
-  Converts sign language gestures to readable and spoken language. Uses ML and OpenCV.
+- 🖐️ UtsavConnect (Firebase, Streamlit, Python)
+• Developed a bilingual (English–Telugu) festival web app with a Firebase Firestore backend for real-time data
+retrieval and dynamic month/category-based filtering.
+• Designed a responsive Streamlit UI with multilingual support, enhancing accessibility and engagement for
+100+ users during testing.
+• Deployed the application via Firebase Hosting and managed version control on GitHub, ensuring smooth
+collaboration and scalable performance
 
-- 📄 [Education Certificate Validator] 
-  Flask + OCR-based tool to detect tampering and academic gaps in student certificates.
+- 📄Education Certificate Validator (Flask, Tesseract OCR)
+• Engineered a Flask web application to validate academic documents by analyzing extracted OCR data.
+• Automated detection of missing semesters and irregular progressions, reducing manual verification effort by 70%.
+• Integrated Tesseract OCR for text extraction and optimized preprocessing to improve recognition accuracy from
+65% to 85%.
 
- I'm looking for roles or internships in **AI/ML**, **full-stack development**, or **product-focused tech** where I can grow fast and learn deeply.
-
----
-
-### 🎯 Currently Learning:
-- Advanced Flask deployment
-- Building more real-world AI projects
-- Full-stack app workflows (auth, databases, hosting)
+ I'm looking for roles in **AI/ML**, **full-stack development**  where I can grow and learn deeply.
 
 ---
 
