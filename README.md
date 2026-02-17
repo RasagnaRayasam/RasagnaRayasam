@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Rasagna Rayasam
+🎓 2025 Engineering Graduate  
 
 Cloud-focused engineering graduate passionate about building **secure, scalable, and reliable cloud systems**.
 
@@ -19,7 +20,7 @@ I have hands-on experience in:
 
 ## 🚀 Featured Projects
 
-### ☁️ Serverless Task Management Application (AWS)
+###☁️ Serverless Task Management Application (AWS)
 Secure REST API built using AWS serverless architecture.
 
 - Developed APIs using **AWS Lambda & API Gateway**
@@ -63,4 +64,7 @@ I enjoy designing cloud architectures, automating infrastructure, and continuous
 🎯 Currently preparing to grow into a **Cloud Security & DevOps Engineer**.
 
 ### 📫 Contact Me
-- **Email**: rasagna2154@gmail.com 
+- **Email**: rasagna2154@gmail.com
+📍 Based in Hyderabad, India
+
+
