@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Rasagna Rayasam
 🎓 2025 Engineering Graduate  
 
-Cloud-focused engineering graduate passionate about building **secure, scalable, and reliable cloud systems**.
+Cloud-focused engineering graduate passionate about designing and deploying **secure, scalable, and highly available cloud systems**. Experienced in building infrastructure on **AWS**, implementing **IAM best practices**, and automating deployments using **Infrastructure as Code (IaC)** and **DevOps tools**.
+
 
 
 
@@ -18,9 +19,10 @@ I have hands-on experience in:
 
 
 
+
 ## 🚀 Featured Projects
 
-###☁️ Serverless Task Management Application (AWS)
+### ☁️ Serverless Task Management Application (AWS)
 Secure REST API built using AWS serverless architecture.
 
 - Developed APIs using **AWS Lambda & API Gateway**
@@ -28,6 +30,7 @@ Secure REST API built using AWS serverless architecture.
 - Designed scalable **DynamoDB** data model with partition & sort keys
 - Applied **IAM least-privilege policies** for secure access control
 - Integrated **CloudWatch monitoring & logging**
+
 
 
 
@@ -40,6 +43,7 @@ Automated AWS infrastructure for scalable and fault-tolerant deployment.
 - Implemented IAM roles for controlled resource access
 
 
+
 ### 🔐 Enterprise IAM Architecture on AWS
 Designed secure, enterprise-level identity and access management system.
 
@@ -47,6 +51,7 @@ Designed secure, enterprise-level identity and access management system.
 - Applied **least-privilege and zero-trust principles**
 - Configured permission boundaries and policy structures
 - Identified and mitigated IAM misconfigurations
+
 
 
 ### 🌐 Static Website Hosting using Amazon S3 & CloudFront
@@ -59,12 +64,13 @@ Designed and deployed a globally distributed static website.
 
 
 
+
 I enjoy designing cloud architectures, automating infrastructure, and continuously learning modern DevOps and security practices.
 
 🎯 Currently preparing to grow into a **Cloud Security & DevOps Engineer**.
 
 ### 📫 Contact Me
 - **Email**: rasagna2154@gmail.com
-📍 Based in Hyderabad, India
+- 📍 Based in Hyderabad, India
 
 
